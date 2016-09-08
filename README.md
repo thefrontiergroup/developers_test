@@ -6,6 +6,7 @@ Open `DevelopersTest.xcodeproj` to run.
 
 ## Tasks
 
+- Add button to add developer to list of developers that don't know iOS
 - Add in header per section
 - Swipe to delete
 - Swipe to move user from bottom section to top section
